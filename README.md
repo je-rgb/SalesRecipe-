@@ -8,9 +8,9 @@
 
 | 이름 | 역할 | GitHub 프로필 | 담당 업무 |
 | :---: | :---: | :---: | :---: |
-| 팀원1 | PM / 기획 | [@github_id](https://github.com/) | 서비스 기획, 일정 관리 |
-| 팀원2 | 개발 / 모델링 | [@github_id](https://github.com/) | AI 모델링, API 개발 |
-| 팀원3 | 프론트 / UI | [@github_id](https://github.com/) | UI/UX 디자인, 프로토타입 구현 |
+| 홍나희 | PM | [@github_id](https://github.com/) | 서비스 기획, 일정 관리 |
+| 안정은 | PL | [@github_id](https://github.com/) | AI 모델링, API 개발 |
+| 이대성 | 프론트 / UI | [@github_id](https://github.com/) | UI/UX 디자인, 프로토타입 구현 |
 
 ---
 
