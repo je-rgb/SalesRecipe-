@@ -19,7 +19,6 @@
 팀 협업 시 `main` 브랜치에 직접 커밋하지 않고, 기능별 브랜치를 생성하여 PR(Pull Request) 후 병합합니다.
 
 - `main`: 배포 및 최종 제출 가능한 안정된 브랜치
-- `develop` (선택 사항): 개발 통합 브랜치
 - `feat/{기능명}`: 새로운 기능 개발 또는 기획서 작성 (예: `feat/login`, `feat/prd-draft`)
 - `fix/{버그명}`: 버그 수정 (예: `fix/api-error`)
 - `docs/{문서명}`: 문서 작성 및 수정 (예: `docs/readme-update`)
